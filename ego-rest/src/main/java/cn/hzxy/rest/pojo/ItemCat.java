@@ -4,6 +4,11 @@ import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+/**
+ * 商品分类pojo
+ * @author 大闲鱼
+ *
+ */
 public class ItemCat {
 
 	@JsonProperty("u")

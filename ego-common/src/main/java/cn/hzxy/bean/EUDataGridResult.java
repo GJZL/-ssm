@@ -2,6 +2,11 @@ package cn.hzxy.bean;
 
 import java.util.List;
 
+/**
+ * 分页
+ * @author 大闲鱼
+ *
+ */
 public class EUDataGridResult {
 	private long total;
 	private List<?> rows;

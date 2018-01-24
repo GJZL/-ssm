@@ -1,12 +1,16 @@
 cn\hzxy\service\ItemCatService.class
+cn\hzxy\service\ContentService.class
 cn\hzxy\service\ItemDescService.class
+cn\hzxy\service\impl\ContentServiceImpl.class
 cn\hzxy\service\impl\ItemCatServiceImpl.class
 cn\hzxy\service\impl\ItemServiceImpl.class
 cn\hzxy\service\impl\ItemParamItemServiceImpl.class
 cn\hzxy\service\PictureService.class
 cn\hzxy\service\ItemParamService.class
+cn\hzxy\service\impl\ContentCategoryServiceImpl.class
 cn\hzxy\service\impl\PictureServiceImpl.class
 cn\hzxy\service\impl\ItemDescServiceImpl.class
 cn\hzxy\service\ItemService.class
 cn\hzxy\service\ItemParamItemService.class
+cn\hzxy\service\ContentCategoryService.class
 cn\hzxy\service\impl\ItemParamServiceImpl.class

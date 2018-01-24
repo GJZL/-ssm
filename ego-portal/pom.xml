@@ -17,7 +17,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.hzxy</groupId>
-			<artifactId>ego-rest</artifactId>
+			<artifactId>ego-manager-mapper</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<!-- Spring -->
