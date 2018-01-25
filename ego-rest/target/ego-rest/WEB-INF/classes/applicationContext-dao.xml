@@ -30,4 +30,5 @@
 	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
 		<property name="basePackage" value="cn.hzxy.mapper" />
 	</bean>
+	<context:component-scan base-package="cn.hzxy.dao"/>
 </beans>

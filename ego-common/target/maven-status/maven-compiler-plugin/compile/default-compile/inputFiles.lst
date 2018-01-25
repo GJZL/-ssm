@@ -1,6 +1,7 @@
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\utils\ExceptionUtil.java
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\bean\PictureResult.java
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\utils\IDUtils.java
+E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\dao\impl\JedisClientCluster.java
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\bean\EUDataGridResult.java
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\utils\FtpUtil.java
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\bean\EUTreeNode.java
@@ -8,3 +9,4 @@ E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\bean\AdvertResult.java
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\bean\EgoResult.java
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\utils\HttpClientUtil.java
 E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\utils\JsonUtils.java
+E:\git_repository\ego\ego-common\src\main\java\cn\hzxy\dao\JedisClient.java
