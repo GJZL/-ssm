@@ -1,6 +1,0 @@
-127.0.0.1 - - [24/Jan/2018:00:09:07 +0800] "GET /rest/content/category/98 HTTP/1.1" 200 46 http-bio-8081-exec-1 2931
-127.0.0.1 - - [24/Jan/2018:00:11:09 +0800] "GET /rest/content/category/98 HTTP/1.1" 200 46 http-bio-8081-exec-3 114
-127.0.0.1 - - [24/Jan/2018:00:12:19 +0800] "GET /rest/content/category/98 HTTP/1.1" 200 46 http-bio-8081-exec-5 9
-127.0.0.1 - - [24/Jan/2018:00:13:57 +0800] "GET /rest/content/category/98 HTTP/1.1" 200 46 http-bio-8081-exec-7 43184
-127.0.0.1 - - [24/Jan/2018:00:14:20 +0800] "GET /rest/content/category/89 HTTP/1.1" 200 1732 http-bio-8081-exec-9 3470
-127.0.0.1 - - [24/Jan/2018:00:14:21 +0800] "GET /rest/content/category/89 HTTP/1.1" 200 1732 http-bio-8081-exec-8 7261
