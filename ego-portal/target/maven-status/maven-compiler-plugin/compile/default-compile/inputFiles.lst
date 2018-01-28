@@ -1,6 +1,12 @@
+E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\controller\CartController.java
 E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\service\impl\AdvertServiceImpl.java
 E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\controller\SearchController.java
+E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\service\CartService.java
 E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\service\AdvertService.java
+E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\controller\OrderController.java
 E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\controller\PageController.java
+E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\service\impl\CartServiceImpl.java
 E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\service\impl\SearchServiceImpl.java
+E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\service\OrderService.java
 E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\service\SearchService.java
+E:\git_repository\ego\ego-portal\src\main\java\cn\hzxy\service\impl\OrderServiceImpl.java

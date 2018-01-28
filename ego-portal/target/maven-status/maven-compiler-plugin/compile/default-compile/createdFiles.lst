@@ -1,6 +1,12 @@
+cn\hzxy\service\CartService.class
+cn\hzxy\controller\PageController.class
+cn\hzxy\service\impl\SearchServiceImpl.class
+cn\hzxy\service\OrderService.class
+cn\hzxy\service\impl\OrderServiceImpl.class
 cn\hzxy\service\AdvertService.class
 cn\hzxy\service\impl\AdvertServiceImpl.class
-cn\hzxy\controller\PageController.class
+cn\hzxy\service\impl\CartServiceImpl.class
+cn\hzxy\controller\CartController.class
 cn\hzxy\service\SearchService.class
-cn\hzxy\service\impl\SearchServiceImpl.class
+cn\hzxy\controller\OrderController.class
 cn\hzxy\controller\SearchController.class

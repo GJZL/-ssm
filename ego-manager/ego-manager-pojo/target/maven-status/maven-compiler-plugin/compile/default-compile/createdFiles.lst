@@ -36,6 +36,7 @@ cn\hzxy\pojo\TbItemParamExample$Criteria.class
 cn\hzxy\pojo\TbOrderItem.class
 cn\hzxy\pojo\TbOrderShippingExample$Criteria.class
 cn\hzxy\pojo\TbItemDescExample$Criteria.class
+cn\hzxy\pojo\Order.class
 cn\hzxy\pojo\TbItemExample$GeneratedCriteria.class
 cn\hzxy\pojo\TbOrderShippingExample$Criterion.class
 cn\hzxy\pojo\TbContentExample$GeneratedCriteria.class
