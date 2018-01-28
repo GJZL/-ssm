@@ -20,11 +20,6 @@
 			<artifactId>ego-manager-mapper</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		<dependency>
-			<groupId>com.hzxy</groupId>
-			<artifactId>ego-search</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 		<!-- Spring -->
 		<dependency>
 			<groupId>org.springframework</groupId>

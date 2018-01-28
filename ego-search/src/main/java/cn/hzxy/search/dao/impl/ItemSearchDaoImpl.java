@@ -13,9 +13,9 @@ import org.apache.solr.common.SolrDocumentList;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
+import cn.hzxy.bean.SearchItem;
+import cn.hzxy.bean.SearchResult;
 import cn.hzxy.search.dao.ItemSearchDao;
-import cn.hzxy.search.pojo.SearchItem;
-import cn.hzxy.search.pojo.SearchResult;
 @Repository
 public class ItemSearchDaoImpl implements ItemSearchDao {
 
@@ -32,9 +32,9 @@ public class ItemSearchDaoImpl implements ItemSearchDao {
 			itemList=new ArrayList<>();
 			for (SolrDocument document : results) {
 				SearchItem item = new SearchItem();
-				item.setId((Long) document.get("id"));
+				item.setId(Long.valueOf((String) document.get("id")));
 				item.setImage((String) document.get("item_image"));
-				item.setPrice((Long) document.get("item_price"));
+				item.setPrice((double) document.get("item_price"));
 				item.setSell_point((String) document.get("item_sell_point"));
 				item.setCategory_name((String) document.get("item_category_name"));
 				// 取高亮显示

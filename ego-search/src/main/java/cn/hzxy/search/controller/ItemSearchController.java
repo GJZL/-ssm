@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import cn.hzxy.bean.EgoResult;
-import cn.hzxy.search.pojo.SearchResult;
+import cn.hzxy.bean.SearchResult;
 import cn.hzxy.search.service.ItemSearchService;
 import cn.hzxy.utils.ExceptionUtil;
 

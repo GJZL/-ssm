@@ -1,6 +1,6 @@
 package cn.hzxy.search.service;
 
-import cn.hzxy.search.pojo.SearchResult;
+import cn.hzxy.bean.SearchResult;
 
 public interface ItemSearchService {
 

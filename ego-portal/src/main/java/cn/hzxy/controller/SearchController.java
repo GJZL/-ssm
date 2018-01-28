@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import cn.hzxy.search.pojo.SearchResult;
+import cn.hzxy.bean.SearchResult;
 import cn.hzxy.service.SearchService;
 
 @Controller

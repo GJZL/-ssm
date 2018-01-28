@@ -1,11 +1,11 @@
 cn\hzxy\mapper\TbOrderMapper.class
-cn\hzxy\mapper\TbOrderShippingMapper.class
-cn\hzxy\mapper\TbItemDescMapper.class
-cn\hzxy\mapper\TbOrderItemMapper.class
-cn\hzxy\mapper\TbItemParamItemMapper.class
 cn\hzxy\mapper\TbItemCatMapper.class
 cn\hzxy\mapper\TbContentCategoryMapper.class
+cn\hzxy\mapper\TbOrderShippingMapper.class
+cn\hzxy\mapper\TbItemDescMapper.class
 cn\hzxy\mapper\TbContentMapper.class
+cn\hzxy\mapper\TbOrderItemMapper.class
 cn\hzxy\mapper\TbItemParamMapper.class
+cn\hzxy\mapper\TbItemParamItemMapper.class
 cn\hzxy\mapper\TbUserMapper.class
 cn\hzxy\mapper\TbItemMapper.class

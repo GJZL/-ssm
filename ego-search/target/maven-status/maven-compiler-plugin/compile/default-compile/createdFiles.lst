@@ -1,6 +1,4 @@
-cn\hzxy\search\pojo\SearchItem.class
 cn\hzxy\search\dao\ItemSearchDao.class
-cn\hzxy\search\pojo\SearchResult.class
 cn\hzxy\search\service\ItemSearchService.class
 cn\hzxy\search\controller\ItemSearchController.class
 cn\hzxy\search\dao\impl\ItemSearchDaoImpl.class

@@ -3,12 +3,11 @@ package cn.hzxy.service.impl;
 import java.util.HashMap;
 import java.util.Map;
 
-
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import cn.hzxy.bean.EgoResult;
-import cn.hzxy.search.pojo.SearchResult;
+import cn.hzxy.bean.SearchResult;
 import cn.hzxy.service.SearchService;
 import cn.hzxy.utils.HttpClientUtil;
 

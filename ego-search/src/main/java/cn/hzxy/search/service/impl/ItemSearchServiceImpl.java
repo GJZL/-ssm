@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
+import cn.hzxy.bean.SearchResult;
 import cn.hzxy.search.dao.ItemSearchDao;
-import cn.hzxy.search.pojo.SearchResult;
 import cn.hzxy.search.service.ItemSearchService;
 
 @Service

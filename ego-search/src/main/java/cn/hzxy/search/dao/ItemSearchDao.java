@@ -2,7 +2,7 @@ package cn.hzxy.search.dao;
 
 import org.apache.solr.client.solrj.SolrQuery;
 
-import cn.hzxy.search.pojo.SearchResult;
+import cn.hzxy.bean.SearchResult;
 
 public interface ItemSearchDao {
 	/**
