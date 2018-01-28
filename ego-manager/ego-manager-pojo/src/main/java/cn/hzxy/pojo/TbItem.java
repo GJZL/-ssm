@@ -2,6 +2,8 @@ package cn.hzxy.pojo;
 
 import java.util.Date;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
+
 public class TbItem {
     private Long id;
 
@@ -14,7 +16,7 @@ public class TbItem {
     private Integer num;
 
     private String barcode;
-
+    
     private String image;
 
     private Long cid;
@@ -72,7 +74,7 @@ public class TbItem {
     public void setBarcode(String barcode) {
         this.barcode = barcode == null ? null : barcode.trim();
     }
-
+    @JsonIgnore
     public String getImage() {
         return image;
     }

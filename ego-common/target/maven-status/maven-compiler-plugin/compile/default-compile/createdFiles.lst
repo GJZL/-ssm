@@ -3,6 +3,7 @@ cn\hzxy\utils\JsonUtils.class
 cn\hzxy\utils\IDUtils.class
 cn\hzxy\bean\EUTreeNode.class
 cn\hzxy\dao\JedisClient.class
+cn\hzxy\utils\CookieUtils.class
 cn\hzxy\utils\HttpClientUtil.class
 cn\hzxy\bean\AdvertResult.class
 cn\hzxy\bean\EUDataGridResult.class
